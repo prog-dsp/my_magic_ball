@@ -17,4 +17,4 @@ dmitrypilavsky@MBP-Dmitry my_magic_ball % ruby my_magic_ball.rb
 По моим данным — «нет»
 ```
 
-Автор: Пилявский Дмитрий
+[Автор: Пилявский Дмитрий](https://github.com/prog-dsp)
