@@ -1,7 +1,6 @@
 # create a variable "answers" and put an array of strings into it
 answers = [
-
-  # Positive
+# Positive
   "Бесспорно",
   "Предрешено",
   "Никаких сомнений",
