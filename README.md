@@ -1,7 +1,7 @@
 # Программа `магический шар`
 https://ru.wikipedia.org/wiki/Magic_8_ball
 
-![300x300-NP0069-2 d74](https://user-images.githubusercontent.com/72647581/100866964-8081b180-34aa-11eb-9cb7-edf29f6de245.jpg)
+![i](https://user-images.githubusercontent.com/72647581/100867257-fdad2680-34aa-11eb-966c-a87353c0d846.jpeg)
 
 ### О программе:
 Игра на Ruby, которая позволяет получить ответ на любой вопрос который вы задаете.
