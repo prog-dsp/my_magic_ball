@@ -1,4 +1,3 @@
-# create a variable "answers" and put an array of strings into it
 answers = [
 
   "Бесспорно",
